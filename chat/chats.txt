@@ -1,0 +1,41 @@
+<span class="name" style="color:#217A93">marcos</span><span class="green"> joined.</span>
+1541636810578
+
+<span class="name" style="color:#217A93">marcos</span>: <span class="message-content">teste</span>
+1541636816661
+
+<span class="name" style="color:#217A93">marcos</span>: <span class="message-content">ffg</span>
+1541636818481
+
+<span class="name" style="color:#DCA488">test</span><span class="green"> joined.</span>
+1541636848894
+
+<span class="name" style="color:#DCA488">test</span>: <span class="message-content">msdfkd</span>
+1541636852634
+
+<span class="name" style="color:#DCA488">test</span>: <span class="message-content">ksdfk</span>
+1541636854865
+
+<span class="name" style="color:#217A93">marcos</span>: <span class="message-content">gf</span>
+1541636903844
+
+<span class="name" style="color:#217A93">marcos</span>: <span class="message-content">sdsdf</span>
+1541636905572
+
+<span class="name" style="color:#4C2B1A">roberval</span><span class="green"> joined.</span>
+1541636967994
+
+<span class="name" style="color:#4C2B1A">roberval</span>: <span class="message-content">ALO GALERA</span>
+1541636971361
+
+<span class="name" style="color:#4C2B1A">roberval</span>: <span class="message-content">TO EM VENEZA</span>
+1541636974304
+
+<span class="name" style="color:#4C2B1A">roberval</span>: <span class="message-content">FALA TU</span>
+1541636975240
+
+<span class="name" style="color:#DCA488">test</span> <span class="red"> left.</span>
+1541636981826
+
+<span class="name" style="color:#4C2B1A">roberval</span> <span class="red"> left.</span>
+1541636987313
