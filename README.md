@@ -1,5 +1,6 @@
-# chat
+# Chat em tempo real com NodeJS + Socket.io 
 
+Criação de um chat completo com Node.js usando somente tecnologias front-end como jQuery, Socket.IO e WebSockets.
 
 
 # Execução do Projeto
